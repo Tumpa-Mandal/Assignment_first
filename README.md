@@ -1,0 +1,2 @@
+# Assignment_first
+SIMPLE DESIGN USING HTML,CSS AND JS
