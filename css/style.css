@@ -1051,4 +1051,39 @@ ul{
         grid-template-columns: 1fr;
         grid-column-gap:80px ;  
     }
+    .footer_left p{
+        font-size: 14px;
+    }
+    
+    .footer_right .page ul li{
+        font-size: 12px;
+    }
+    .footer_right .page h4{
+        font-size: 12px;
+    }
+    .footer_right .shop h4{
+        font-size: 12px;
+    }
+    .footer_right .shop ul li{
+        font-size: 12px;
+    }
+    .footer_right .utility_pages h4{
+        font-size: 12px;
+    } 
+    .footer_right .utility_pages ul li{
+        font-size: 12px;
+    }
+    .footer_right .follow_us h4{
+        font-size: 12px;
+    }
+    .follow_us ul li{
+        font-size: 12px;
+    }
+    
+    .footerend_left p{
+        font-size: 10px;
+    }
+    .footer_links li{
+        font-size: 10px;
+    }
 }
