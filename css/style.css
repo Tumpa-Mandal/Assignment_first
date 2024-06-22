@@ -747,7 +747,7 @@ ul{
         position: absolute;
         top: 0px;
         width: 40%;
-        height: 100vh;
+        height: 50vh;
         text-align: center;
         justify-content: center;
         background: #484872;
@@ -755,7 +755,7 @@ ul{
         transition: all 0.7s ease;  
        }
        .menubar ul li{
-        padding: 30px;
+        padding: 10px;
         color: #FFFFFF;
        }
        .menubar ul li a{
