@@ -747,7 +747,7 @@ ul{
         position: absolute;
         top: 0px;
         width: 40%;
-        height: 50vh;
+        height: 100vh;
         text-align: center;
         justify-content: center;
         background: #484872;
@@ -1055,32 +1055,32 @@ ul{
         grid-column-gap:80px ;  
     }
     .footer_left p{
-        font-size: 14px;
+        font-size: 12px;
     }
     
     .footer_right .page ul li{
-        font-size: 12px;
+        font-size: 10px;
     }
     .footer_right .page h4{
-        font-size: 12px;
+        font-size: 10px;
     }
     .footer_right .shop h4{
-        font-size: 12px;
+        font-size: 10px;
     }
     .footer_right .shop ul li{
-        font-size: 12px;
+        font-size: 10px;
     }
     .footer_right .utility_pages h4{
-        font-size: 12px;
+        font-size: 10px;
     } 
     .footer_right .utility_pages ul li{
-        font-size: 12px;
+        font-size: 10px;
     }
     .footer_right .follow_us h4{
-        font-size: 12px;
+        font-size: 10px;
     }
     .follow_us ul li{
-        font-size: 12px;
+        font-size: 10px;
     }
     
     .footerend_left p{
