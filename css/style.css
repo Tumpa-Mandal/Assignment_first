@@ -1018,8 +1018,8 @@ ul{
         grid-template-columns: 1fr;
     }
 
-    .testimonial_content p{
-        font-size: 18px;   
+    .testimonial_container p{
+        font-size: 12px;   
     }
 
     .testimonial_section{
