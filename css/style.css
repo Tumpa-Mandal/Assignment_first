@@ -1021,6 +1021,9 @@ ul{
     .testimonial_container p{
         font-size: 12px;   
     }
+    .ttle_image{
+        margin-right: 0px;
+    }
 
     .testimonial_section{
         width: 100%;
